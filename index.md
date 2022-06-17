@@ -1,5 +1,5 @@
 ﻿# A Robot that uses Computer Vision to Track a Ball
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+This robot will track a ball and it will follow the ball using a raspberry pi.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
