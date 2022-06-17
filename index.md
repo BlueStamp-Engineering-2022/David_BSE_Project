@@ -1,11 +1,11 @@
 ﻿# A Robot that uses Computer Vision to Track a Ball
-This robot will track a ball and it will follow the ball using a raspberry pi.
+This robot will track a ball and it will follow the ball using a Raspberry Pi.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | David | Monta Vista Highschool | Mechanical Engineering | Incoming Senior
 
-![Headstone Image](https://photos.google.com/share/AF1QipPfXXrUy84d3RworMUQWytms_AhB1PhceeMV76HeIOtnnEISkmCd99oGmAbPtCnKQ/photo/AF1QipPNfOyksZha0U4RXoaIlMH2tdR-gsy3aYwYjUK9?key=blBtb2RCb01sX1hWc04xS3NMREJ0d3FUOWY2eWxB)
+![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLVbcVsXtbVDlJuw0to8qprEm4nzvpmechAxXFTnBjrnaQnZk5eflwQXT3I46UE1jroaWahA_ZodNRUtbbHt7iFZwZqHAU7C8B2Qf57jLTXL7Mm-1x0gQ9uiL_iphZOY8YwViqiN2oftpD9LLPRMid0=s1934-no?authuser=0)
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
