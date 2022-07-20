@@ -15,7 +15,7 @@ Here is the code for the vehicle and a detailed explanation of the code: (link)
 While putting all the components together, I encountered many issues, but the main issue is with the batteries. The batteries that I was originally using ran out really quick and recently I also burned a battery pack because of how I left the batteries running for a long amount of time and it was drawing so much current that it started to really heat up and cause the battery pack to start smoking. Other than that I enjoyed completing the project and seeing it work in the end.
 
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![David C Milestone 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1658351180/video_to_markdown/images/youtube--6Doy682EGRU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=6Doy682EGRU "David C Milestone 3"){:target="_blank" rel="noopener"}
 
 # Second Milestone: Tracking a Ball
 
