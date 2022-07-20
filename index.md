@@ -7,8 +7,13 @@ This robot will track a ball and it will follow the ball using a Raspberry Pi.
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLVbcVsXtbVDlJuw0to8qprEm4nzvpmechAxXFTnBjrnaQnZk5eflwQXT3I46UE1jroaWahA_ZodNRUtbbHt7iFZwZqHAU7C8B2Qf57jLTXL7Mm-1x0gQ9uiL_iphZOY8YwViqiN2oftpD9LLPRMid0=s1934-no?authuser=0)
   
-# Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+# Third Milestone: Ball Tracking Robot
+For my third and final milestone, I finally put all the components together, the chassis and the tracking system to create a ball tracking robot. So during the process of putting it together I had to replace the arduino that was originally on the raspberry pi. The pins on the raspberry pi are similar to the pins on the arduino because both of them have pwm pins and regular digital pins. So to replace the arduino with the raspberry pi, I had to move the speed pin on the motor driver to the pwm pins on the raspberry pi and also move the rest of the pins that are connected to the motor driver to the digital pins on the raspberry pi. After replacing the arduino with the raspberry pi, I also have to change the arduino code to python code. In the code I had a proportional controller that would control the speed of the motor so that when the ball is far away from the vehicle, the speed of the motor would be fast and as it gets closer to the vehicle. And for the left and right proportional controller, the speed of one of the motors would be quick if the ball is really far to the either the left or right side of the vehicle, and as it gets closer to the center of the vehicle, the speed of the motors would slow down. I would use the coordinates of the center of the ball that is given by the tracking ball code to do the calculations for the proportional controllers.
+
+Here is the code for the vehicle and a detailed explanation of the code: (link)
+
+While putting all the components together, I encountered many issues, but the main issue is with the batteries. The batteries that I was originally using ran out really quick and recently I also burned a battery pack because of how I left the batteries running for a long amount of time and it was drawing so much current that it started to really heat up and cause the battery pack to start smoking. Other than that I enjoyed completing the project and seeing it work in the end.
+
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
