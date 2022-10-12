@@ -3,7 +3,7 @@ This robot will track a ball and it will follow the ball using a Raspberry Pi.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| David | Monta Vista Highschool | Computer Engineering & Computer Science | Incoming Senior
+| David Chang | Monta Vista Highschool | Computer Engineering & Computer Science | Incoming Senior
 
 
 ![Project Image](https://lh3.googleusercontent.com/CFqVSuUB51Ph44lcA6dzYB7VJZzcwd6zccglNNmUtMlSkOHpxkoj1UUkl2JE6vdrYveHdWR4FzooWMRUV9jj1USu0b5XB53n-gxKTSqvh_YlJGUDaxJBmPdb4Ni4nnjwT2GXDpvKS5WrHj787WlJeH1rfT63ztfFSy4SHtngVtRUdxNcHz38kvUu1QD9i_Ps3TRIpAZ5eQsUD7Hseg3wEZm0pjVnQw0UEf51YNznfIO3UHFbKMc7diWEiqVsGSkhU9GJpEXJturPCKcqjNp3NeEu7jVOiBz3vzBAZWiYRoZt6TXXAnsapb_BVh0gKiXNWj-B7ESbRstTSoHyQzYCzb_wYoXMxUgt_2AvTDuoQj8x4V8H5Z4jZamglnccnHmcLgTd9ubAtEh-gHk1NAmUiBEvXpcDRHIr34TJO8JDmmEQMN1Rh7E8Jt5DbHupSZEz2xkPeDD3iO0SBQQo3NkipQM4lmHmmtyrWrlWTfdWcXL8ti8yTFVQvFW7KoAlENCb8NoxtA63NOyu5WNbcrLPrSfZ1HnBwgJ5DIU2i6hRcLWXpZ86aVMl9sAzmR8X-8eLsgm2QbpauZutrLe6dUn-gBuwkGEwC5mEYQoxJUYXDxG9kIk6z4DkoApNQmJ8Wx84OpQPBW5bimNaEivZihgkYBBHlVRBimxQIDuetZr3WK4Uq7XJnvDvNQtNX35m-ePAktmlT8OJJ2UI3KA8LYz3TGGW_PSorL38672STwMhLpc9GE0-4WCtlc3HB_r3v8v2zQWpmKnTC4D3Z34RMdb3ObrS7ddqZ1kk-IhOO-dndJ6xgBReL0267fQPGDUBmzULjf_ojOeR8ktLm9iCJsMrmxgp18_I61cYSxJkJ1zuAP_EqEc-BSOXQLY1Bqh_E70AEarDj9LDEkQzIM_G9YnOLnc142Z_bDLYzvcf5jE8nJO5js9WQAJF1aCGOEWgNP2RsUZxW1ESRFlUwOA=w756-h1007-no?authuser=1)
